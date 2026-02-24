@@ -1,8 +1,8 @@
-# Olá mundo! 
-## Me chamo Raí Ribeiro 
+# Hello world, I'm Raí.
 
-- 🔭 Estudante na FIAP
-- 🌱 Atualmente aprendendo sobre FrontEnd
+### 
+
+## 📖 Estudante na FIAP
 
 ###
 
